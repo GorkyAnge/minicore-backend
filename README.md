@@ -91,4 +91,4 @@ Asegúrate de que la base de datos está configurada correctamente y accesible d
 ---
 
 ### Autor
-Desarrollado por [Tu Nombre].
+Desarrollado por Gorky Palacios Mutis.
